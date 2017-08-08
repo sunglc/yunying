@@ -1,0 +1,245 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.Content{
+  width: 100%;
+  min-width: 1200px;
+  background-color:#d5364e; 
+}
+.bottom2 {
+
+    min-width: 1200px;
+    margin-top: 100px;
+}
+		.glc_dynamics-center{                            
+			width: 100%;
+			min-width: 1200px;
+		}
+		/*网页内容 运营报告*/
+		.glc_OR_container{
+			width: 100%;
+			min-width: 1200px;
+			height: auto;
+			margin:0;
+		}
+		/*网页banner*/
+		.glc_OR_banner{
+			height: auto;
+			width: 100%;
+			min-width: 1200px;
+			margin: 0;
+		}
+		/*banner图片定义*/
+		.glc_OR_banner_img{
+			display: block;
+			height: 100%;
+			width: 100%;
+			min-width: 1200px;
+            margin:0;
+			
+		}
+		/*网页主内容区 运营数据*/
+		.glc_OR_content{
+			height: 1200px;
+			width: 100%;
+			min-width: 1200px;
+			margin: 0;
+			/*background-color: yellow;*/
+		}
+		/*网页主内容区——————上部内容*/
+		.glc_OR_UpperContent{
+			height: 300px;
+			width: 100%;
+			min-width: 1200px;
+			margin: 0;
+			background-color:#e9f4f7;
+		}
+		/*上部内容标题*/
+		.glc_OR_UpperContent_title{
+			margin: 0;
+			height: 50px;
+			padding:0;
+			width: 100%;
+			min-width: 1200px;
+			text-align: center;
+		}
+		.glc_OR_UpperContent_tit{
+			font-family: "Microsoft YaHei" ! important;
+			font-size: 30px;
+			color: #11516c;
+			font-weight: bold;
+
+		}
+		.glc_OR_quo{
+			color: #11516c;
+			font-size: 40px;
+			font-weight: bold;
+		}
+		.glc_OR_UpperContent_subtit{
+			font-family: "Microsoft YaHei" ! important;
+			color: gray;
+			font-size: 10px;
+
+		}
+		/*上部内容文本*/
+		.glc_OR_UpperContent_text{
+			margin: 50px 0 0 0;
+			height: 250px;
+			padding:0;
+			width: 100%;
+			min-width: 1200px;
+			text-align: center;
+		}
+		/*上部内容文本中的数据*/
+		.glc_OR_UpperContent_text_data{
+			font-family: "Microsoft YaHei" ! important;
+			color: #ff7e00;
+			font-size: 30px;
+			font-weight: bold;
+		}
+		/*上部内容文本中的文字描述*/
+		.glc_OR_UpperContent_text_text{
+			font-family: "Microsoft YaHei" ! important;
+			color: #11516c;
+			font-size: 20px;
+			font-weight: bold;
+		}
+		/*网页主内容区——————中部内容*/
+		.glc_OR_CentralContent{
+			margin: 0;
+			float: left;
+			width: 100%;
+			min-width: 1200px;
+			/*background-color: red;*/
+		}
+		/*中部内容——————左边内容*/
+		.glc_OR_CentralContent_left{
+			margin: 50px 0 0 0;
+			float: left;
+			
+			width: 68%;
+			min-width: 820px;
+		}
+		/*左边内容图片*/
+		.glc_OR_CentralContent_left_img{
+			margin-top: 30px;
+			margin-left:20%;
+			float: left;
+			width: 66%;
+			height: auto;
+		}
+		/*中部内容——————右边内容*/
+		.glc_OR_CentralContent_right{
+			margin: 100px 0 0 60%;
+		
+			width: 26%;
+			min-width: 312px;
+		}
+		/*中部内容——————右边内容的上部内容*/
+		.glc_OR_CentralContent_right_upper{
+			height: 100px;
+			width: 50%;
+			min-width: 164px;
+			margin-left: 28%;
+		}
+		.glc_OR_CentralContent_right_UpperContent{
+			
+		}
+		/*中部内容——————右边内容的上部内容的图片*/
+		.glc_OR_CentralContent_right_UpperContent_img{
+			display: inline-block;
+			margin: 20px 0 0 0;
+			vertical-align:middle;
+		}
+		/*中部内容——————右边内容的中部内容*/
+		.glc_OR_CentralContent_right_centra{
+			height: 100px;
+			width: 50%;
+			margin-top: 50px;
+			min-width: 164px;
+			margin-left: 28%;
+		}
+		.glc_OR_CentralContent_right_UpperContent_img{
+			width: 37px;
+			min-width: 3%;
+		}
+		.glc_OR_CentralContent_right_UpperContent_mt{
+			width: 38%;
+			min-width: 260px;
+			margin-left: 21%;
+			margin-top: -40px;
+		}
+		.glc_OR_CentralContent_right_centraContent{
+			
+		}
+		/*中部内容——————右边内容的下部内容*/
+		.glc_OR_CentralContent_right_lower{
+			height: 100px;
+			width: 50%;
+			min-width: 164px;
+			margin-top: 50px;
+			margin-left: 28%;
+		}
+		/*中部内容——————右边内容的投资额*/
+		.glc_OR_CentralContent_right_UpperContent_money{
+			display: block;
+			margin-left:6%;
+			font-family: "Microsoft YaHei" ! important;
+			color: #ff7e00;
+			font-size: 20px;
+			font-weight: bold;	
+		}
+		/*中部内容——————右边内容投资额下方的文字描述*/
+		.glc_OR_CentralContent_right_UpperContent_text{
+			font-family: "Microsoft YaHei" ! important;
+		    color: gray;
+		    font-size: 10px;
+		}
+		/*网页主内容区——————下部内容*/
+		.glc_OR_LowerContent{
+			height: 300px;
+			width: 100%;
+			min-width: 1200px;
+			margin: 0;
+			/*background-color:#e9f4f7;*/   
+			/*background-color: red;*/
+		}
+		.glc_OR_LowerContent_title{
+			margin: 0;
+			height: 50px;
+			padding:0;
+			width: 100%;
+			min-width: 1200px;
+			text-align: center;
+		}
+		.glc_OR_LowerContent_tit{
+			font-family: "Microsoft YaHei" ! important;
+			font-size: 30px;
+			color: #11516c;
+			font-weight: bold;
+		}
+		.glc_OR_LowerContent_subtit{
+			font-family: "Microsoft YaHei" ! important;
+			color: gray;
+			font-size: 10px;
+		}
+
+		/*网页下部内容文本*/
+		.glc_OR_LowerContent_text{
+			width: 100%;
+			height: 500px;
+			min-width: 1200px;
+			margin-top: 570px;
+			/*border-image: url("images/age.png");
+			border-image-slice: */
+		}
+		.glc_OR_Lower_img{
+			display: block;
+			height: auto;
+			width: 100%;
+			min-width: 1200px;
+			margin:0;	
+			
+
+		}
